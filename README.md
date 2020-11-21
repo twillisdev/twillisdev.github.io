@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Tallah Willis
+## Atlanta, Georgia
+
 
 You can use the [editor on GitHub](https://github.com/twillisdev/twillisdev.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
