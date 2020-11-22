@@ -10,9 +10,9 @@
 ## What I'm working on currently
 - a React weather app (useState)
 - I'm also testing my tic tac toe app on various devices. I asked my classmates to test my website via their web browsers and mobile devices. 
-They helped me find a bug really fast. The application wasn't rendering to their mobile devices properly. On a personal computer, the application worked perfectly, but on a mobile device the game board was distorted and looked more like a random Tetris brick stack than a tic tac toe board. I resdolved that by adjusted the width x height of the border box.
+They helped me find a bug really fast. The application wasn't rendering to their mobile devices properly. On a personal computer, the application worked perfectly, but on a mobile device the game board was distorted and looked more like a random Tetris brick stack than a tic tac toe board. I quickly resolved that by adjusting the px width x height of the border box.
 - Deploying my applications on Heroku
 
-## Looking forward to: Working with classmates on a team project.
+## Looking forward to working with classmates on a team project
 
 
