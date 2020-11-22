@@ -3,43 +3,13 @@
 ## Atlanta, Georgia
 ### Front End Web Development student
 ![Image](https://github.com/twillisdev/twillisdev.github.io/blob/main/Tallah%20for%20Git.io.jpg)
+### Favorite inspirational artists: Chance the Rapper, Cardi B, Kanye West
+### Favorite movie/show: My Hero Acedemia, Mr. Bean, almost anything sci-fi
+### Dislikes: cold weather, snakes, and bugs (in that order)
 
-- React
-- Testing, testing 1, 2, 3...
+## What I'm working on currently
+- a React weather app (useState)
+- I'm also testing my app on various devices. I asked my classmates to test my website via their web browsers and mobile devices. 
+They helped me find a bug really fast. The application wasn't remdering to their mobile devises properly, so I adjusted the width x height of the border box.
 
 
-You can use the [editor on GitHub](https://github.com/twillisdev/twillisdev.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/twillisdev/twillisdev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
