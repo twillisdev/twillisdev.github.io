@@ -1,7 +1,7 @@
 
 # Tallah Willis
 ## Atlanta, Georgia
-### Front End Web Developer student
+### Front End Web Development student
 
 - React
 - Testing, testing 1, 2, 3...
