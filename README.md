@@ -14,7 +14,7 @@ They helped me find a bug really fast. The application wasn't rendering to their
 - Deploying my applications on Heroku
 
 ## Biggest Lesson Learned: 
-If (I my understanding of how something is done < 0) { <br>
+If (my understanding of how something is done < 0) { <br>
    console.log("Read the documentation!"); <br>
 } else { <br>
    console.log("Watch the Youtube video tutorial, it will save me alot of time and frustration!"); <br>
