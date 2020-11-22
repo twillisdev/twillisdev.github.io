@@ -2,6 +2,7 @@
 # Tallah Willis
 ## Atlanta, Georgia
 ### Front End Web Development student
+![Image](https://github.com/twillisdev/twillisdev.github.io/blob/main/Tallah%20for%20Git.io.jpg)
 
 - React
 - Testing, testing 1, 2, 3...
