@@ -13,6 +13,16 @@
 They helped me find a bug really fast. The application wasn't rendering to their mobile devices properly. On a personal computer, the application worked perfectly, but on a mobile device the game board was distorted and looked more like a random Tetris brick stack than a tic tac toe board. I quickly resolved that by adjusting the px width x height of the border box.
 - Deploying my applications on Heroku
 
-## Looking forward to working with classmates on a team project
+## Biggest Lesson Learned: 
+If (I am unfamilair with how something is done) { <br>
+   console.log("Read the documentation!"); <br>
+} else { <br>
+   console.log("Watch the Youtube video tutorial, it will save me alot of time and frustration!"); <br>
+   } <br>
+   :wink:
+   
+## Looking forward to:
+- working with classmates on a team project
+- building so much cool stuff!
 
 
