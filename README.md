@@ -1,6 +1,10 @@
+
 # Tallah Willis
 ## Atlanta, Georgia
-### Front End Web Developer
+### Front End Web Developer student
+
+- React
+- Testing, testing 1, 2, 3...
 
 
 You can use the [editor on GitHub](https://github.com/twillisdev/twillisdev.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
