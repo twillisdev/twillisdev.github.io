@@ -1,5 +1,6 @@
 # Tallah Willis
 ## Atlanta, Georgia
+![Image of Tallah](https://github.com/twillisdev/twillisdev.github.io/blob/main/IMG_7742%20(1).jpg)
 
 
 You can use the [editor on GitHub](https://github.com/twillisdev/twillisdev.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
