@@ -4,7 +4,7 @@
 ### Front End Web Development student
 ![Image](https://github.com/twillisdev/twillisdev.github.io/blob/main/Tallah%20for%20Git.io.jpg)
 ### Favorite inspirational artists: Chance the Rapper, Cardi B, Kanye West
-### Favorite movie/show: My Hero Acedemia, Mr. Bean, anime and almost anything sci-fi
+### Favorite movie/show: Jumper, Limitless, My Hero Acedemia, Mr. Bean, anime and almost anything sci-fi
 ### Dislikes: cold weather, snakes, and bugs (in that order)
 
 ## What I'm working on currently
