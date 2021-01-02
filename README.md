@@ -10,7 +10,7 @@
 ### Dislikes: cold weather, snakes, and bugs (in that order lol)
 
 ## What I'm working on currently - January 2021
-- Collaborating on AWS S3 backend for artists streaming video push to production
+- Collaborating with Dev Ops on AWS S3 backend for artists streaming video push to production
 
 ## What I was working on - December 2020
 - a React app demonstrating (useState) and (useEffect), a little React native when I have time, playing with Expo cli which is soooooooo cool becasue of hot relaoding capability in real-time 
