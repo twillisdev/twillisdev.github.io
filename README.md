@@ -10,7 +10,9 @@
 ### Dislikes: cold weather, snakes, and bugs (in that order lol)
 
 ## What I'm working on currently - January 2021
-- Collaborating with Dev Ops on AWS S3 backend for artists streaming video push to production
+- Collaborating with Dev Ops on backend using AWS Lambda S3 VOD workflow for artists streaming video push to production
+- Strengthening my foundational skills
+- Gaining a full understanding, so that I can teach others
 
 ## What I was working on - December 2020
 - a React app demonstrating (useState) and (useEffect), a little React native when I have time, playing with Expo cli which is soooooooo cool becasue of hot relaoding capability in real-time 
@@ -21,6 +23,8 @@ They helped me find a bug really fast. The application wasn't rendering to their
 
 
 ## Biggest Lesson Learned: 
+in 2021: In the words of Elon Musk, "know your fundamentals at the base of your tree before focusing on the branches".
+in 2020:
 If (my understanding of something is < 100%) { <br>
    console.log("Read the documentation!"); <br>
 } else { <br>
@@ -31,7 +35,7 @@ If (my understanding of something is < 100%) { <br>
 ## Looking forward to:
 - successful collaboration with Dev Ops team
 - working with classmates on a team project
-- having fun, building great realtionships, and building so much cool stuff!
+- travel, having fun, building great realtionships, and building so much cool stuff!
 - contributing to my community as a citizen and as an engineer
 
 
