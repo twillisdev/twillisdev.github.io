@@ -23,8 +23,8 @@ They helped me find a bug really fast. The application wasn't rendering to their
 
 
 ## Biggest Lesson Learned: 
-in 2021: In the words of Elon Musk, "know your fundamentals at the base of your tree before focusing on the branches".
-in 2020:
+- in 2021: In the words of Elon Musk, "know your fundamentals at the base of your tree before focusing on the branches".
+- in 2020:
 If (my understanding of something is < 100%) { <br>
    console.log("Read the documentation!"); <br>
 } else { <br>
