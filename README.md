@@ -6,8 +6,8 @@
 ### Favorite inspirational artists: Chance the Rapper, Cardi B, Kanye West
 ### Favorite music genres: r&b, hip-hop, pop, rock, jazz, blues, not necessarily in that order, depends on my mood :) sometimes I just listen to beats 
 ### Favorite movie/show: Pennyworth, Jumper, Limitless, My Hero Acedemia, Mr. Bean, lots of anime and almost anything sci-fi
-### Loves: teaching, family, dogs, travel, reading, foodie
-### Dislikes: cold weather, snakes, and bugs (in that order lol)
+### Loves: teaching, family, dogs, travel, reading, foodie, AI
+### Dislikes: cold weather, snakes, and bugs (perhaps in that order lol)
 
 ## What I'm working on currently - January 2021
 - Collaborating with Dev Ops on backend using AWS Lambda S3 VOD workflow for artists streaming video push to production
