@@ -1,7 +1,7 @@
 
 # Tallah Willis
 ## Atlanta, Georgia
-### Software Engineering Student Full Stack
+### Software Engineering Student Full Stack Dev Ops Intern
 ![Image](https://github.com/twillisdev/twillisdev.github.io/blob/main/Tallah%20for%20Git.io.jpg)
 ### Favorite inspirational artists: Chance the Rapper, Cardi B, Kanye West
 ### Favorite music genres: r&b, hip-hop, pop, rock, jazz, blues, not necessarily in that order, depends on my mood :) sometimes I just listen to beats 
