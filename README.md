@@ -10,7 +10,7 @@
 ### Dislikes: cold weather, snakes, and bugs (perhaps in that order lol)
 
 ## What I'm working on currently - January 2021
-- Collaborating with Dev Ops on backend using AWS Lambda S3 VOD workflow for artists streaming video push to production
+- Collaborating with Dev Ops React/Amplify frontend and AWS AppSync/DynamoDB GraphQL backend using VOD workflow for artists streaming video push to production
 - Strengthening my foundational skills
 - Gaining a full understanding, so that I can teach others
 
