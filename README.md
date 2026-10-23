@@ -1,16 +1,17 @@
 
 # Tallah Willis
-## Atlanta, Georgia
+## Miami, Florida + Atlanta, Georgia
 ### Software Engineering Student Full Stack 
 ![Image](https://github.com/twillisdev/twillisdev.github.io/blob/main/Tallah%20for%20Git.io.jpg)
-### Favorite inspirational artists: Chance the Rapper, Cardi B, Kanye West
+### Favorite inspirational artists: Drake Cardi B
 ### Favorite music genres: r&b, hip-hop, pop, rock, jazz, blues, not necessarily in that order, depends on my mood :) sometimes I just listen to beats 
 ### Favorite movie/show: Pennyworth, Jumper, Limitless, My Hero Acedemia, Mr. Bean, lots of anime and almost anything sci-fi
 ### Loves: teaching, family, dogs, travel, reading, foodie, AI
-### Dislikes: cold weather, snakes, and bugs (perhaps in that order lol)
+### Dislikes: cold weather, snakes, and bugs (in that order lol)
 
-## What I'm working on currently - January 2021
-- Collaborating with Dev Ops React/Amplify frontend and AWS AppSync/DynamoDB GraphQL backend using VOD workflow for artists streaming video push to production
+## What I'm working on currently - October 2026
+- AI Evaluation + brushing up on JavaScript + learning Español  
+## 2021 Happenings - Collaborating with Dev Ops React/Amplify frontend and AWS AppSync/DynamoDB GraphQL backend using VOD workflow for artists streaming video push to production
 - Strengthening my foundational skills
 - Gaining a full understanding, so that I can teach others
 
